@@ -5,7 +5,6 @@ header.innerText = "Tito's Website";
 img.src = "../tito.jpg";
 img.height = 500;
 img.width = 350;
-img.style.display = "center";
 
 document.body.appendChild(header).setAttribute("style", "text-align:center");
 document.body.appendChild(img).setAttribute("alt", "portrait of tito");
