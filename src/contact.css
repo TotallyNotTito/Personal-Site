@@ -1,0 +1,11 @@
+.background {
+  background-color: black;
+}
+
+.contact {
+  color: bisque;
+}
+
+.btn:hover {
+  color: darkgray;
+}
