@@ -1,7 +1,22 @@
-.container {
+body {
   background-color: black;
 }
 
-.header {
-  background-color: white;
+.img-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.portrait {
+  min-height: 30%;
+  min-width: 30%;
+}
+
+.heading {
+  color: bisque;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.about-text {
+  color: bisque;
 }
