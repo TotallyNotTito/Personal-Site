@@ -13,7 +13,8 @@ body {
 
 .heading {
   color: bisque;
-  text-align: center;
+  padding: auto;
+  text-align: justify;
   font-size: 2rem;
 }
 
