@@ -7,17 +7,18 @@ body {
   flex-wrap: wrap;
 }
 .portrait {
-  min-height: 30%;
-  min-width: 30%;
+  min-height: 33%;
+  min-width: 33%;
 }
 
 .heading {
   color: bisque;
   padding: auto;
-  text-align: justify;
+  text-align: center;
   font-size: 2rem;
 }
 
 .about-text {
   color: bisque;
+  padding-left: auto;
 }
