@@ -9,3 +9,10 @@
 .btn:hover {
   color: darkgray;
 }
+
+.email-input {
+  color: bisque;
+}
+.email {
+  background-color: bisque;
+}
