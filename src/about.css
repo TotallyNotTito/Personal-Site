@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 .flex-container {
-    background: linear-gradient(45deg, bisque, black);
+    background: linear-gradient(135deg, bisque, black);
 }
 
 .portrait,

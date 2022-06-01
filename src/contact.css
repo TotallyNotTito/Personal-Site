@@ -1,6 +1,10 @@
+.form-container {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
 .form-heading {
     color: bisque;
-    margin: 5%;
     text-align: left;
     font-size: 3rem;
 }
