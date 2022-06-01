@@ -8,14 +8,14 @@ body {
 .portrait {
     max-height: 33%;
     max-width: 33%;
-    margin: auto;
+    margin: 0% 0% 0% 3%;
 }
 
 .heading {
     color: bisque;
-    margin: 0 auto;
-    text-align: center;
-    font-size: 3rem;
+    margin: 5%;
+    text-align: right;
+    font-size: 2rem;
 }
 
 .about-text {
