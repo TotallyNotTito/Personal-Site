@@ -9,6 +9,10 @@
     font-size: 3rem;
 }
 
+.form-label {
+    color: bisque;
+}
+
 #msg {
     min-width: none;
     min-width: 43%;
