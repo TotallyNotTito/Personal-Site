@@ -4,9 +4,7 @@ body {
 .flex-container {
     background: linear-gradient(45deg, bisque, black);
 }
-.img-container {
-    display: inline flex;
-}
+
 .portrait,
 .col-md-4,
 .col-lg-4 {

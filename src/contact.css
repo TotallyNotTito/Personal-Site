@@ -1,3 +1,10 @@
+.form-heading {
+    color: bisque;
+    margin: 5%;
+    text-align: left;
+    font-size: 3rem;
+}
+
 #msg {
     min-width: none;
     min-width: 43%;
