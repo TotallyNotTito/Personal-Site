@@ -22,8 +22,8 @@
             integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
             crossorigin="anonymous"
         ></script>
-        <main href="#about-me">
-            <h1 class="my-4">About Me</h1>
+        <main>
+            <h1 class="my-4" id="about-me">About Me</h1>
             <div class="bootstrap-grid" id="about-me">
                 <div class="row">
                     <img class="portrait col-xs-12 col-sm-12 col-md-4 col-lg-4" src="tito.jpg" alt="Portrait of Tito in front of petrified wood"> </img>
@@ -41,17 +41,18 @@
                     </div>
                 </div>
             </div>
-        </main>
-            <form id="contact">
+            <form id="contact-me">
+                <h1 class="my-4" id="contact" alt="contact me section">Contact Me</h1>
                 <div class="row col-xs-12 col-sm-12 col-sm-4 col-md-4 col-lg-4">
-                  <label for="contact" class="form-label">Enter Email address</label>
-                  <input type="email" class="form-control " id="email">
+                  <label for="contact" class="form-label" alt="email section">Enter Email address</label>
+                  <input type="email" class="form-control " id="email" alt="enter email">
                 </div>
                 <div class="row">
-                  <label for="text" class="form-label">Input Message</label>
-                  <textarea type="text" class="form-control" id="message" rows="6"> </textarea>
+                  <label for="text" class="form-label" alt="input message">Input Message</label>
+                  <textarea type="text" class="form-control" id="message" rows="6" alt="enter message goes here"> </textarea>
                 </div>
                 <button type="submit" id="button" class="btn btn-primary">Submit</button>
             </form>
+        </main>
     </body>
 </html>
