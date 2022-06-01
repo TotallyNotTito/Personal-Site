@@ -8,3 +8,15 @@
     max-width: 43%;
     min-height: 15%;
 }
+
+#button {
+    background-color: bisque;
+    color: black;
+    margin: 1%;
+}
+
+#button:hover {
+    background-color: green;
+    color: bisque;
+    margin: 1%;
+}
