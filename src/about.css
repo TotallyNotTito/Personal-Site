@@ -5,20 +5,25 @@ body {
 .img-container {
     display: inline flex;
 }
-.portrait {
-    max-height: 33%;
-    max-width: 33%;
-    margin: 0% 0% 0% 3%;
+.portrait,
+.col-md-4,
+.col-lg-4 {
+    margin: 3% 3% 3% 3%;
+    justify-content: center;
 }
 
-.heading {
+.heading,
+.my-4 {
     color: bisque;
     margin: 5%;
     text-align: right;
     font-size: 2rem;
 }
 
+.row {
+    margin: 1%;
+}
 .about-text {
     color: bisque;
-    padding-left: auto;
+    margin: auto;
 }
