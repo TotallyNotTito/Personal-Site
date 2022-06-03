@@ -1,11 +1,15 @@
 .previous-work-container {
     display: inline flex;
-    text-align: left;
-    color: bisque;
 }
 
-.resume {
-    font-size: 1rem;
+.resume-head {
+    color: bisque;
+    margin: 2% 0% 2% 2%;
+    justify-content: center;
+}
+
+.res-link {
     text-decoration: none;
+    margin: 0% 3% 3% 2%;
     color: bisque;
 }
