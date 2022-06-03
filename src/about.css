@@ -3,6 +3,10 @@ body {
     background: linear-gradient(135deg, bisque, black);
 }
 
+.main-container {
+    display: inline;
+}
+
 .portrait,
 .col-md-4,
 .col-lg-4 {
