@@ -5,11 +5,10 @@
 .resume-head {
     color: bisque;
     margin: 2% 0% 2% 2%;
-    justify-content: center;
 }
 
 .res-link {
     text-decoration: none;
-    margin: 0% 3% 3% 2%;
     color: bisque;
+    font-size: 2.5rem;
 }
