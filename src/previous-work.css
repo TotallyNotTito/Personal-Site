@@ -12,3 +12,9 @@
     color: bisque;
     font-size: 2.5rem;
 }
+
+.resume-element {
+    align-items: left;
+    font-size: 2rem;
+    color: bisque;
+}
