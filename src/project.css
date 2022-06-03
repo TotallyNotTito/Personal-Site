@@ -1,0 +1,28 @@
+.project-container {
+    display: inline;
+}
+.project-head {
+    text-align: center;
+    color: bisque;
+    margin-left: 0%;
+}
+
+.git {
+    margin: 0%;
+    align-content: flex-start;
+    text-decoration: none;
+    color: teal;
+    font-size: 2rem;
+}
+.project-cards {
+    display: inline flex;
+    margin: 0%;
+    background-color: black;
+}
+
+.project-element {
+    text-decoration: none;
+    color: #ffe4c4;
+    font-size: 2rem;
+    text-align: auto;
+}
