@@ -24,7 +24,7 @@ body {
 .heading,
 .my-4 {
     color: bisque;
-    margin: 5%;
+    margin: 10%;
     text-align: right;
     font-size: 3rem;
 }
@@ -34,5 +34,5 @@ body {
 }
 .about-text {
     color: bisque;
-    margin: 0% 0;
+    margin: 0%;
 }
