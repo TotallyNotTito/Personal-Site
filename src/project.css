@@ -5,6 +5,7 @@
     text-align: center;
     color: bisque;
     margin-left: 0%;
+    font-size: 3rem;
 }
 
 .git {
@@ -24,6 +25,6 @@
     text-decoration: none;
     color: #ffe4c4;
     font-size: 2rem;
-    text-align: auto;
-    margin: 0% 1% 0% 1%;
+    text-align: center;
+    margin: 0% 3% 0% 3%;
 }
