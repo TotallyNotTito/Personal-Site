@@ -1,11 +1,8 @@
-const move = document.querySelector("#button");
+const moveTop = document.querySelector("#button");
 
-move.addEventListener("click", () => {
-    const msg = "No Post Method Setup Yet";
+moveTop.addEventListener("click", () => {
     window.scrollTo({
-        top: 0,
-        left: 0,
-        behavior: "smooth",
+        top: 150,
+        left: 150,
     });
-    console.log(msg);
 });
