@@ -1,4 +1,4 @@
-const moveTop = document.querySelector("#button");
+const moveTop = document.querySelector("#main-content");
 
 moveTop.addEventListener("click", () => {
     window.scrollTo({
