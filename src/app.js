@@ -10,7 +10,7 @@ $(document).ready(function () {
     });
   });
 
-  const moveMiddle = document.querySelector("#projects");
+  const moveMiddle = document.querySelector("#contact-me");
   moveMiddle.addEventListener("click", () => {
     const msg = "Button Clicked";
     console.log(msg);
