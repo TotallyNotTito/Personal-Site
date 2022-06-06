@@ -10,13 +10,14 @@
 
 .git {
     margin: 0%;
-    align-content: flex-start;
+    align-content: center;
     text-decoration: none;
     color: bisque;
     font-size: 2rem;
 }
 .project-cards {
     display: inline flex;
+    flex-wrap: wrap;
     margin: 0%;
     background-color: black;
 }
@@ -24,7 +25,7 @@
 .project-element {
     text-decoration: none;
     color: #ffe4c4;
-    font-size: 2rem;
+    font-size: 10vw;
     text-align: center;
     margin: 0% 3% 0% 3%;
 }
