@@ -4,7 +4,7 @@ $(document).ready(function () {
   moveTop.addEventListener("click", () => {
     const msg = "Button Clicked";
     console.log(msg);
-    window.scrollTo({
+    document.scrollTo({
       x: 0,
       y: 0,
     });
@@ -14,7 +14,7 @@ $(document).ready(function () {
   moveMiddle.addEventListener("click", () => {
     const msg = "Button Clicked";
     console.log(msg);
-    window.scrollTo({
+    document.scrollTo({
       x: 0,
       y: 1000,
     });
