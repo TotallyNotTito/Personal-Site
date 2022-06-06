@@ -1,21 +1,21 @@
 .nav-container {
-    display: inline;
+  display: inline;
 }
 .nav-elements {
-    display: inline flex;
-    margin: 0%;
-    background-color: black;
+  display: inline flex;
+  margin: 0%;
+  background-color: black;
 }
 
 .element {
-    text-decoration: none;
-    color: #ffe4c4;
-    font-size: 2rem;
-    margin: 1%;
-    text-align: auto;
+  text-decoration: none;
+  color: #ffe4c4;
+  font-size: 4vw;
+  margin: 1%;
+  text-align: auto;
 }
 
 .element:hover {
-    color: teal;
-    background-color: bisque;
+  color: teal;
+  background-color: bisque;
 }
